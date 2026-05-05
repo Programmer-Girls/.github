@@ -75,27 +75,12 @@ Explore nossos [repositórios](https://github.com/orgs/Programmer-Girls/reposito
 <!-- Adicionar novos projetos abaixo do site -->
 <!-- Deixar o site sempre em primeiro lugar -->
 
-<table>
-
-<tr>
-<th>Projeto</th>
-<th>Descrição</th>
-<th>Duração</th>
-<th>Status</th>
-</tr>
-
-<tr>
-<td>
-  <a href="https://www.progirls.com.br/"><strong>Site Oficial</strong></a>
-</td>
-<td>Site oficial da comunidade ProGirls — desenvolvido pela e para mulheres apaixonadas por tecnologia. O projeto tem como objetivo apresentar a iniciativa, divulgar sua missão e facilitar o acesso de novas integrantes, reunindo informações sobre participação, voluntariado e canais de conteúdo para quem quer aprender, crescer e deixar sua marca no mundo tech.</td>
-<td>Contínuo</td>
-<td>
-  <img src="https://img.shields.io/badge/Ativo-8528EB?style=flat&logo=googlechrome&logoColor=white"/>
-</td>
-</tr>
-
-</table>
+| Projeto | Descrição | Duração | Status |
+|--------|----------|--------|--------|
+| **[Site Oficial](https://www.progirls.com.br/)** | Site institucional da ProGirls com informações sobre a comunidade, participação e conteúdos. | Contínuo | ![Ativo](https://img.shields.io/badge/Ativo-8528EB?style=flat&logo=googlechrome&logoColor=white) |
+| **Tech Week 2025** | Semana de palestras conectando a comunidade ao mercado de tecnologia. | 18 a 22 de Agosto de 2025 | ![Encerrado](https://img.shields.io/badge/Encerrado-8528EB?style=flat&logo=southwestairlines&logoColor=white) |
+| **Roda de Conversa** | Encontros mensais para troca de experiências, soft skills e apoio na jornada tech. | Contínuo | ![Em pausa](https://img.shields.io/badge/Em%20pausa-8528EB?style=flat&logo=square&logoColor=white) |
+| **Núcleos de Estudos ProGirls** | Iniciativa colaborativa focada em estudo contínuo e apoio entre participantes. | Ciclo (em definição) | ![Encerrando](https://img.shields.io/badge/Encerrando-8528EB?style=flat&logo=googlecalendar&logoColor=white) |
 
 ***
 
